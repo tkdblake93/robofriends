@@ -6,4 +6,4 @@ To run the project:
 2. Run `npm install`
 3. Run `npm start`# robofriends
 
-[https://tkdblake93.github.io/robofriends/]
+https://tkdblake93.github.io/robofriends/
